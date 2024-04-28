@@ -60,7 +60,7 @@ In this task, you are asked to implement Webauthn for a passwordless authenticat
 For this task, grading will be based on the successful implementation of the WebAuthn-based Sign-In and Sign-Up processes. Full points will be awarded for a fully functional implementation. In cases of a nonfunctional implementation, a deduction of 25 points will be applied. Additional deductions may occur if the code deviates significantly from the correct implementation.
 Here are screenshots demonstrating how the program should operate upon successful implementation of the feature. These images serve as a visual guide for the expected functionality and user interface design.
 
-
+### signup
 <img width="540" alt="image" src="https://github.com/Alaboudi1/assignment2/assets/16814184/43ad6b50-342d-4eb2-bd69-6733506b4b3b">
 
 <img width="450" alt="image" src="https://github.com/Alaboudi1/assignment2/assets/16814184/7afe0806-a0ef-4b4e-88f9-a117e8357191">
@@ -70,13 +70,13 @@ Here are screenshots demonstrating how the program should operate upon successfu
  
 
 
+### login
 
+<img width="540" alt="image" src="https://github.com/Alaboudi1/assignment2/assets/16814184/b8bdb99b-9235-4db7-a41e-2cc388252d76">
 
+<img width="450" alt="image" src="https://github.com/Alaboudi1/assignment2/assets/16814184/76833266-5332-4fb0-bd9c-fb0797163621">
 
-
-
-
-
+<img width="800" alt="image" src="https://github.com/Alaboudi1/assignment2/assets/16814184/2b6b7070-1c20-42a9-8821-664150e5c063">
 
 ## Submission:
 Please ensure to test and verify the functionality of your code on all team members' computers before submission. It is crucial that the implementation works across different systems. If the submitted code fails to work correctly on my computer, points will be deducted accordingly. Please only submit your final code in authentication_System folder. No other document is needed.
